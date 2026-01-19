@@ -89,28 +89,36 @@ Business-focused analytical logic
 **📊 Query Output Snapshots**
 
 Query 1 – Busiest Day & Peak Hour
-# Query 1 - Output Screenshot ![Query Output - 1](/O_1.png)
+# Query 1 - Output Screenshot
+![Query Output - 1](/O_1.png)
 
 Query 2 – Orders Trend by Day & Hour
-# Query 2 - Output Screenshot ![Query Output - 2](/O_2.png)
+# Query 2 - Output Screenshot
+![Query Output - 2](/O_2.png)
 
 Query 3 – Best & Worst Selling Pizzas
-# Query 3 - Output Screenshot ![Query Output - 3](/O_3.png)
+# Query 3 - Output Screenshot
+![Query Output - 3](/O_3.png)
 
 Query 4 – Revenue Trend Analysis
-# Query 4 - Output Screenshot ![Query Output - 4](/O_4.png)
+# Query 4 - Output Screenshot 
+![Query Output - 4](/O_4.png)
 
 Query 5 – Average Order Value (AOV)
-# Query 5 - Output Screenshot ![Query Output - 5](/O_5.png)
+# Query 5 - Output Screenshot 
+![Query Output - 5](/O_5.png)
 
 Query 6.1 – Category Contribution
-# Query 6.1 - Output Screenshot ![Query Output - 6.1](/O_6_CATEGORY_CONTRIBUTION.png)
+# Query 6.1 - Output Screenshot
+![Query Output - 6.1](/O_6_CATEGORY_CONTRIBUTION.png)
 
 Query 6.2 – Pizza Size Performance
-# Query 6.2 - Output Screenshot ![Query Output - 6.2](/O_6_SIZE_PERFORMANCE.png)
+# Query 6.2 - Output Screenshot
+![Query Output - 6.2](/O_6_SIZE_PERFORMANCE.png)
 
 Query 6.3 – Revenue Contribution Analysis
-# Query 6.3 - Output Screenshot ![Query Output - 6.3](/O_6_revenue.png)
+# Query 6.3 - Output Screenshot
+![Query Output - 6.3](/O_6_revenue.png)
 
 **🔑 10️⃣ Key Insights Derived from Analysis**
 
